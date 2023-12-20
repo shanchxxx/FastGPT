@@ -55,7 +55,7 @@ const defaultSystemEnv: SystemEnvType = {
 };
 const defaultFeConfigs: FeConfigsType = {
   show_emptyChat: true,
-  show_git: true,
+  show_git: false,
   show_register: false,
   docUrl: 'https://doc.fastgpt.in',
   openAPIDocUrl: 'https://doc.fastgpt.in/docs/development/openapi',
